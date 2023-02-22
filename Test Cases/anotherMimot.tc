@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>lmimot</name>
+   <name>anotherMimot</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>df2aa921-05bc-4117-a8cc-12acdf46aa2c</testCaseGuid>
+   <testCaseGuid>28f8ad2d-0038-451c-9a72-8ad6fb08f2ef</testCaseGuid>
 </TestCaseEntity>
